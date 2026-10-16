@@ -1,0 +1,21 @@
+go.mod
+  s_50e38903d3bb0b::t_539becf6d7f4e7 1-5
+go.sum
+  s_50e38903d3bb0b::t_b13ff7262801a2 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "736232ff228953c8cfd7265fbc716a18bafe2577",
+  "prompts": {},
+  "sessions": {
+    "s_50e38903d3bb0b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_eba440fbcffebAkTqArFII1YM7",
+        "model": "cloudflare/auto"
+      },
+      "human_author": "Luke Valenta <lvalenta@cloudflare.com>"
+    }
+  }
+}
