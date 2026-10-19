@@ -126,6 +126,7 @@ var extensionNames = map[string]string{
 	"crlDistributionPoints":          "2.5.29.31",
 	"extendedKeyUsage":               "2.5.29.37",
 	"keyUsage":                       "2.5.29.15",
+	"ctPoison":                       "1.3.6.1.4.1.11129.2.4.3",
 	"signedCertificateTimestampList": "1.3.6.1.4.1.11129.2.4.2",
 	"subjectAltName":                 "2.5.29.17",
 	"subjectKeyIdentifier":           "2.5.29.14",
